@@ -5,13 +5,13 @@
 }
 
 body {
-    background-color: #eafbff;
+    background-color: #d8e2dc;
     background-image: linear-gradient(
         to bottom,
-        #eafbff 0%,
-        #eafbff 50%,
-        #5290f9 50%,
-        #5290f9 100%
+        #d8e2dc 0%,
+        #d8e2dc 50%,
+        #fec5bb 50%,
+        #fec5bb 100%
     );
     font-family: 'Muli', sans-serif;
     display: flex;
@@ -22,7 +22,7 @@ body {
 }
 
 nav {
-    background-color: #fff;
+    background-color: #f8edeb;
     padding: 20px;
     width: 80px;
     display: flex;
@@ -70,7 +70,7 @@ nav ul a {
 }
 
 .icon {
-    background-color: #fff;
+    background-color: #f8edeb;
     border: 0;
     cursor: pointer;
     padding: 0;
@@ -84,7 +84,7 @@ nav ul a {
 }
 
 .icon .line {
-    background-color: #5290f9;
+    background-color: #fec5bb;
     height: 2px;
     width: 20px;
     position: absolute;
